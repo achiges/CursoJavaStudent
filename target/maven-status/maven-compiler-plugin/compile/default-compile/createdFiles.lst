@@ -1,0 +1,4 @@
+com\bonarea\dao\StudentDao.class
+com\bonarea\presentation\Principal.class
+com\bonarea\dao\StudentDaoImpl.class
+com\bonarea\model\Student.class
